@@ -1,2 +1,2 @@
-Introduction/Business Problem
-I am looking to open a coffee shop in the D.C. Metro area. With the Foursquare API, I will be able to see what the competition is like as well as the amount that I can charge per cup of coffee based on the median salary.
+# Introduction/Business Problem
+The purpose of the project is that I am looking to open a coffee shop in New York City. Lots of people drink coffee and there is a need for more coffee shops. The project will anaylze population along with salary data and coffee data.
