@@ -1,8 +1,16 @@
 # Data Section
-## Data Usage
-### Location/Venues
-* I will leverage the Fousquare API in order to determine coffee shops in the area. I will also use a list of neighborhoods in the area through https://cocl.us/new_york_dataset
-### Types of Coffee
-* I will use https://github.com/Venkat-ds/ICO/blob/master/ICO_CROP_DATA.csv for data on what type of coffee to sell based on consumption
-### Coffee Demographics
-* I will use Statista for coffee statistics on demographic profiles
+Based on our problem, certain factors that we will look for include:
+- Acceptance Rate
+- Highest Paying Jobs by Major
+- Majors Awarded
+- Other Student Expenses
+- Time to Complete
+- Tuition Costs
+- Venues Around Campus
+
+We decided to use regularuly spaced grids, around the center of the cities to define neighborhoods and boroughs.
+
+The data sources used to extract and generate the required information are:
+- University of Cincinnati data is scraped from: https://datausa.io/profile/university/university-of-cincinnati-main-campus
+- University of Maryland data is scraped from: https://datausa.io/profile/university/university-of-maryland-college-park
+- Foursquare' API is used to find all of the venues in the area
